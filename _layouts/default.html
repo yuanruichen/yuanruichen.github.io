@@ -24,14 +24,28 @@
         <div class="profile__name">{{ site.author.name }}</div>
         <div class="profile__bio">{{ site.author.bio }}</div>
         <div class="profile__affiliation">{{ site.author.affiliation }}</div>
+        <div class="profile__location">{{ site.author.location }}</div>
         <ul class="profile__links">
-          <li>{{ site.author.location }}</li>
-          <li><a href="mailto:{{ site.author.email }}">Email</a></li>
-          <li><a href="{{ site.author.researchgate }}">ResearchGate</a></li>
-          {% if site.author.google_scholar %}<li><a href="{{ site.author.google_scholar }}">Google Scholar</a></li>{% endif %}
-          {% if site.author.orcid %}<li><a href="{{ site.author.orcid }}">ORCID</a></li>{% endif %}
-          {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>{% endif %}
-          {% if site.author.cv_pdf %}<li><a href="{{ site.author.cv_pdf | relative_url }}">CV</a></li>{% endif %}
+          <li>
+            <a href="mailto:{{ site.author.email }}">
+              <span class="profile-icon" aria-hidden="true">@</span>
+              <span>Email</span>
+            </a>
+          </li>
+          <li>
+            <a href="{{ site.author.researchgate }}">
+              <span class="profile-icon" aria-hidden="true">RG</span>
+              <span>ResearchGate</span>
+            </a>
+          </li>
+          {% if site.author.google_scholar %}
+          <li>
+            <a href="{{ site.author.google_scholar }}">
+              <span class="profile-icon" aria-hidden="true">GS</span>
+              <span>Google Scholar</span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </aside>
       <article class="content">
