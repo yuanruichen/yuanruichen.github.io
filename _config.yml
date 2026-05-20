@@ -1,0 +1,28 @@
+title: "Yuanrui Chen"
+description: "Ph.D. candidate in Atmospheric Science at Tsinghua University studying atmospheric wave dynamics, wave-convection interaction, tropical-extratropical coupling, and climate extremes."
+repository: "yuanruichen/yuanruichen.github.io"
+timezone: Asia/Shanghai
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+author:
+  name: "Yuanrui Chen"
+  bio: "Ph.D. Candidate, Atmospheric Science"
+  affiliation: "Department of Earth System Science, Tsinghua University"
+  location: "Beijing, China"
+  email: "chenyr22@mails.tsinghua.edu.cn"
+  researchgate: "https://www.researchgate.net/profile/Yuanrui-Chen-2"
+  google_scholar: # TODO: add Google Scholar URL
+  orcid: # TODO: add ORCID URL
+  github: # TODO: add GitHub username
+  cv_pdf: # TODO: add CV PDF path or URL
