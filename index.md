@@ -12,36 +12,103 @@ permalink: /
 
 He was a visiting scholar at the Climate Change Research Centre, UNSW Sydney, working with Prof. Steven C. Sherwood on wave-convection interaction.
 
-<div class="keyword-list" markdown="1">
-`Atmospheric wave dynamics` `South Pacific Convergence Zone` `Wave-convection interaction` `Tropical-extratropical interaction` `Rossby waves and wave packets` `Marine heatwaves` `Climate model diagnostics` `AI for atmospheric science`
+<span class='anchor' id='publications'></span>
+
+# Publications
+
+## Submitted and In Progress
+
+<div class="paper-box paper-spcz" markdown="1">
+<div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">SPCZ + CCEWs</div><div class="scheme-wave"></div><div class="scheme-clouds"></div></div></div>
+<div class="paper-box-text" markdown="1">
+
+### Interactions Between the SPCZ and Convectively Coupled Equatorial Waves
+
+**Yuanrui Chen**, Chidong Xu, Steven C. Sherwood, and Jonathon S. Wright  
+Submitted to *Journal of Climate*, 2026.
+
+- Diagnoses how convectively coupled equatorial waves interact with the South Pacific Convergence Zone and its moist dynamical feedbacks.
+</div>
 </div>
 
-<span class='anchor' id='research-interests'></span>
+<div class="paper-box paper-spectrum" markdown="1">
+<div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">Wave Spectrum</div><div class="scheme-bars"></div><div class="scheme-curve"></div></div></div>
+<div class="paper-box-text" markdown="1">
 
-# Research Interests
+### A Generalized Wave Power Spectral Framework for Diagnosing Mid-latitude Atmospheric Wave Variability
 
-<div class="research-grid" markdown="1">
+**Yuanrui Chen**, Wenjun Dong, and Jonathon S. Wright  
+Submitted to *Journal of the Atmospheric Sciences*, 2025.
 
-<div class="research-card" markdown="1">
-### Atmospheric Waves and Climate Variability
-Study of Rossby waves, medium-scale waves, wave packets, and dominant Southern Hemisphere wave modes.
+- Develops a generalized spectral diagnostic framework for comparing and interpreting mid-latitude atmospheric wave variability.
+</div>
 </div>
 
-<div class="research-card" markdown="1">
-### SPCZ and Wave-Convection Interaction
-Investigation of interactions between the South Pacific Convergence Zone and convectively coupled equatorial waves, MJO-related variability, and moist dynamical feedbacks.
+## Published and Online
+
+<div class="paper-box paper-mhw" markdown="1">
+<div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">Marine Heatwave</div><div class="scheme-wave"></div><div class="scheme-warm-pool"></div></div></div>
+<div class="paper-box-text" markdown="1">
+
+### Recurrent Synoptic Waves Instigated Severe Marine Heatwave in the Southwest Pacific
+
+**Yuanrui Chen**, Fanghua Xu, and Jonathon S. Wright  
+*Journal of Geophysical Research: Atmospheres*, 130, e2024JD043232, 2025.
+
+- Shows how recurrent synoptic Rossby wave packets organized surface circulation and mixed-layer changes that triggered a severe Southwest Pacific marine heatwave.
+</div>
 </div>
 
-<div class="research-card" markdown="1">
-### Climate Extremes and Air-Sea Interaction
-Research on how recurrent synoptic waves and atmospheric circulation patterns contribute to marine heatwaves and other regional extremes.
+<div class="paper-box paper-shmode" markdown="1">
+<div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">SH Wave Mode</div><div class="scheme-ring"></div><div class="scheme-wave small"></div></div></div>
+<div class="paper-box-text" markdown="1">
+
+### On the Dynamics and Impacts of the Summertime Southern Hemisphere Dominant Wave Mode
+
+**Yuanrui Chen**, Yanluan Lin, and Jonathon S. Wright  
+*Quarterly Journal of the Royal Meteorological Society*, 151(773), e5069, 2025.
+
+- Identifies the dynamics and downstream impacts of a dominant summertime Southern Hemisphere wave mode.
+</div>
 </div>
 
-<div class="research-card" markdown="1">
-### Model Diagnostics and AI-assisted Climate Science
-Development of physical diagnostics, indices, and emerging AI-assisted tools for understanding model biases, reanalysis differences, and atmospheric variability.
+<div class="paper-box paper-quadrupole" markdown="1">
+<div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">Quadrupole Mode</div><div class="scheme-quadrants"></div></div></div>
+<div class="paper-box-text" markdown="1">
+
+### A Coupled Quadrupole Mode in the South Pacific
+
+**Yuanrui Chen** and Jonathon S. Wright  
+*Journal of Climate*, 37, 6109-6126, 2024.
+
+- Describes a coupled South Pacific quadrupole pattern linking regional circulation, convection, and tropical-extratropical variability.
+</div>
 </div>
 
+<div class="paper-box paper-bias" markdown="1">
+<div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">Model Bias</div><div class="scheme-clouds"></div><div class="scheme-bars"></div></div></div>
+<div class="paper-box-text" markdown="1">
+
+### Wave-convection interactions amplify convective parameterization biases in the South Pacific Convergence Zone
+
+**Yuanrui Chen**, Wenchao Chu, Jonathon S. Wright, and Yanluan Lin  
+*Journal of Advances in Modeling Earth Systems*, 16, e2024MS004334, 2024.
+
+- Demonstrates that wave-convection coupling can amplify convective parameterization biases in simulations of the SPCZ.
+</div>
+</div>
+
+<div class="paper-box paper-airsea" markdown="1">
+<div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">Air-Sea Flux</div><div class="scheme-interface"></div><div class="scheme-arrows"></div></div></div>
+<div class="paper-box-text" markdown="1">
+
+### Estimation of gas exchange rate and carbon dioxide gas flux at the sea-air interface
+
+**Yuanrui Chen**, Dongliang Zhao, and Zhaohui Lin  
+*Haiyang Xuebao*, 43(9), 8-20, 2021.
+
+- Estimates gas exchange rates and carbon dioxide fluxes across the sea-air interface.
+</div>
 </div>
 
 <span class='anchor' id='education'></span>
@@ -59,57 +126,6 @@ Development of physical diagnostics, indices, and emerging AI-assisted tools for
 - **B.E. in Physical Oceanography**, Ocean University of China, Qingdao, China, 2018-2022  
   GPA: 3.74/4.00, Rank: 1/81
 
-<span class='anchor' id='publications'></span>
-
-# Publications
-
-## Published and Online
-
-<div class="publication-list" markdown="1">
-
-<div class="publication-card" markdown="1">
-Chen, Y., Xu, F., and Wright, J. S., 2025: Recurrent Synoptic Waves Instigated Severe Marine Heatwave in the Southwest Pacific. *Journal of Geophysical Research: Atmospheres*, 130, e2024JD043232.  
-<span class="pub-tag">Marine heatwaves</span><span class="pub-tag">Climate extremes</span><span class="pub-tag">Wave dynamics</span>
-</div>
-
-<div class="publication-card" markdown="1">
-Chen, Y., Lin, Y., and Wright, J. S., 2025: On the Dynamics and Impacts of the Summertime Southern Hemisphere Dominant Wave Mode. *Quarterly Journal of the Royal Meteorological Society*, 151(773), e5069.  
-<span class="pub-tag">Wave dynamics</span><span class="pub-tag">Rossby waves</span><span class="pub-tag">Climate variability</span>
-</div>
-
-<div class="publication-card" markdown="1">
-Chen, Y. and Wright, J. S., 2024: A Coupled Quadrupole Mode in the South Pacific. *Journal of Climate*, 37, 6109-6126.  
-<span class="pub-tag">SPCZ</span><span class="pub-tag">Tropical-extratropical interaction</span><span class="pub-tag">Wave dynamics</span>
-</div>
-
-<div class="publication-card" markdown="1">
-Chen, Y., Chu, W., Wright, J. S., and Lin, Y., 2024: Wave-convection interactions amplify convective parameterization biases in the South Pacific Convergence Zone. *Journal of Advances in Modeling Earth Systems*, 16, e2024MS004334.  
-<span class="pub-tag">SPCZ</span><span class="pub-tag">Wave-convection interaction</span><span class="pub-tag">Model diagnostics</span>
-</div>
-
-<div class="publication-card" markdown="1">
-Chen, Y., Zhao, D., and Lin, Z., 2021: Estimation of gas exchange rate and carbon dioxide gas flux at the sea-air interface. *Haiyang Xuebao*, 43(9), 8-20.  
-<span class="pub-tag">Air-sea interaction</span><span class="pub-tag">Carbon dioxide flux</span>
-</div>
-
-</div>
-
-## Submitted and In Progress
-
-<div class="publication-list" markdown="1">
-
-<div class="publication-card" markdown="1">
-Chen, Y., Xu, C., Sherwood, S. C., and Wright, J. S., 2026: Interactions Between the SPCZ and Convectively Coupled Equatorial Waves. Submitted to *Journal of Climate*.  
-<span class="pub-tag">SPCZ</span><span class="pub-tag">Wave-convection interaction</span><span class="pub-tag">MJO</span>
-</div>
-
-<div class="publication-card" markdown="1">
-Chen, Y., Dong, W., and Wright, J. S., 2025: A Generalized Wave Power Spectral Framework for Diagnosing Mid-latitude Atmospheric Wave Variability. Submitted to *Journal of the Atmospheric Sciences*.  
-<span class="pub-tag">Wave dynamics</span><span class="pub-tag">Model diagnostics</span><span class="pub-tag">Spectral framework</span>
-</div>
-
-</div>
-
 <span class='anchor' id='awards-and-honors'></span>
 
 # Awards and Honors
@@ -120,59 +136,3 @@ Chen, Y., Dong, W., and Wright, J. S., 2025: A Generalized Wave Power Spectral F
 - China National Scholarship, Undergraduate, 2019
 - Honor Prize, The Mathematical Contest in Modeling, 2021
 - National Second Prize, China Undergraduate Mathematical Contest in Modeling, 2020
-
-<span class='anchor' id='skills'></span>
-
-# Skills
-
-<div class="skill-columns" markdown="1">
-
-<div markdown="1">
-### Languages
-- Chinese
-- English
-</div>
-
-<div markdown="1">
-### Programming
-- Python
-- Fortran
-- MATLAB
-</div>
-
-<div markdown="1">
-### Models and Tools
-- CESM
-- Isca
-- Linear Baroclinic Model
-- ERA5 / reanalysis diagnostics
-- xarray, NumPy, and Matplotlib scientific Python workflows
-</div>
-
-</div>
-
-<span class='anchor' id='teaching-and-service'></span>
-
-# Teaching and Academic Service
-
-## Teaching Assistant
-
-- Atmosphere and Ocean Interaction, Graduate course, 2024.02-2024.07
-- Oceanography, Undergraduate course, 2023.09-2024.02
-- Maths, Astronomy and Physics, Undergraduate course, 2019.09-2020.02
-
-## Academic Service
-
-- Reviewer for *Nature Communications*
-- Reviewer for *Journal of Geophysical Research: Oceans*
-
-<span class='anchor' id='contact'></span>
-
-# Contact and Links
-
-- Email: [chenyr22@mails.tsinghua.edu.cn](mailto:chenyr22@mails.tsinghua.edu.cn)
-- ResearchGate: [Yuanrui Chen](https://www.researchgate.net/profile/Yuanrui-Chen-2)
-- Google Scholar: TODO
-- ORCID: TODO
-- GitHub: TODO
-- CV PDF: TODO
