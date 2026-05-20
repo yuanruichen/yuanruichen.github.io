@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    <title>{% if page.title and page.title != '' %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav class="site-nav" aria-label="Primary navigation">
+          {% for item in site.data.navigation.main %}
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+
+    <main class="page-shell">
+      <aside class="profile" aria-label="Profile">
+        <div class="profile__name">{{ site.author.name }}</div>
+        <div class="profile__bio">{{ site.author.bio }}</div>
+        <div class="profile__affiliation">{{ site.author.affiliation }}</div>
+        <ul class="profile__links">
+          <li>{{ site.author.location }}</li>
+          <li><a href="mailto:{{ site.author.email }}">Email</a></li>
+          <li><a href="{{ site.author.researchgate }}">ResearchGate</a></li>
+          {% if site.author.google_scholar %}<li><a href="{{ site.author.google_scholar }}">Google Scholar</a></li>{% endif %}
+          {% if site.author.orcid %}<li><a href="{{ site.author.orcid }}">ORCID</a></li>{% endif %}
+          {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>{% endif %}
+          {% if site.author.cv_pdf %}<li><a href="{{ site.author.cv_pdf | relative_url }}">CV</a></li>{% endif %}
+        </ul>
+      </aside>
+      <article class="content">
+        {{ content }}
+      </article>
+    </main>
+  </body>
+</html>
