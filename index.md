@@ -6,17 +6,13 @@ permalink: /
 
 <span class='anchor' id='about'></span>
 
-# Yuanrui Chen
-
-**Yuanrui Chen** is a Ph.D. candidate in Atmospheric Science at the Department of Earth System Science, Tsinghua University, advised by Prof. Jonathon S. Wright. His research focuses on atmospheric wave dynamics, wave-convection interaction, tropical-extratropical coupling, and climate extremes, with particular emphasis on the South Pacific Convergence Zone, Southern Hemisphere wave variability, and marine heatwaves.
-
-He was a visiting scholar at the Climate Change Research Centre, UNSW Sydney, working with Prof. Steven C. Sherwood on wave-convection interaction.
+I am is a Ph.D. candidate in Atmospheric Science at the Department of Earth System Science, Tsinghua University, advised by Prof. Jonathon S. Wright. My research focuses on the South Pacific Convergence Zone, wave-convection interaction, atmospheric wave dynamics, and climate extremes, with particular emphasis on the Southern Hemisphere wave variability and marine heatwaves.
 
 <span class='anchor' id='publications'></span>
 
 # Publications
 
-## Submitted and In Progress
+## In Progress
 
 <div class="paper-box paper-spcz" markdown="1">
 <div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">SPCZ + CCEWs</div><div class="scheme-wave"></div><div class="scheme-clouds"></div></div></div>
@@ -44,7 +40,7 @@ Submitted to *Journal of the Atmospheric Sciences*, 2025.
 </div>
 </div>
 
-## Published and Online
+## Online
 
 <div class="paper-box paper-mhw" markdown="1">
 <div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">Marine Heatwave</div><div class="scheme-wave"></div><div class="scheme-warm-pool"></div></div></div>
