@@ -6,7 +6,7 @@ permalink: /
 
 <span class='anchor' id='about'></span>
 
-I am is a Ph.D. candidate in Atmospheric Science at the Department of Earth System Science, Tsinghua University, advised by Prof. Jonathon S. Wright. My research focuses on the South Pacific Convergence Zone, wave-convection interaction, atmospheric wave dynamics, and climate extremes, with particular emphasis on the Southern Hemisphere wave variability and marine heatwaves.
+I am a Ph.D. candidate in Atmospheric Science at the Department of Earth System Science, Tsinghua University, advised by Prof. Jonathon S. Wright. My research focuses on the South Pacific Convergence Zone, wave-convection interaction, atmospheric wave dynamics, and climate extremes, with particular emphasis on Southern Hemisphere wave variability and marine heatwaves. I am also interested in AI-assisted atmospheric science workflows and built [MetForge](https://github.com/yuanruichen/MetForge), a lightweight AI-agent workflow kit for atmospheric science that helps researchers spend less time on repetitive coding and more time on scientific thinking.
 
 <span class='anchor' id='publications'></span>
 
@@ -15,35 +15,37 @@ I am is a Ph.D. candidate in Atmospheric Science at the Department of Earth Syst
 ## In Progress
 
 <div class="paper-box paper-spcz" markdown="1">
-<div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">SPCZ + CCEWs</div><div class="scheme-wave"></div><div class="scheme-clouds"></div></div></div>
+<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/spcz-ccew.png" alt="Schematic of SPCZ and convectively coupled equatorial wave feedback"></figure></div>
 <div class="paper-box-text" markdown="1">
 
 ### Interactions Between the SPCZ and Convectively Coupled Equatorial Waves
 
-**Yuanrui Chen**, Chidong Xu, Steven C. Sherwood, and Jonathon S. Wright  
+**Yuanrui Chen**, Chang Xu, Steven Sherwood, and Jonathon S. Wright  
 Submitted to *Journal of Climate*, 2026.
 
-- Diagnoses how convectively coupled equatorial waves interact with the South Pacific Convergence Zone and its moist dynamical feedbacks.
+- Quantifies how convectively coupled equatorial waves account for a substantial fraction of SPCZ outgoing longwave radiation variability, with equatorial Rossby and mixed Rossby-gravity waves providing leading westward-propagating contributions.
+- Shows that SPCZ background conditions sharpen wave structures and support a wave-evaporation-convection feedback that modulates coupled equatorial Rossby wave growth and propagation.
 </div>
 </div>
 
 <div class="paper-box paper-spectrum" markdown="1">
-<div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">Wave Spectrum</div><div class="scheme-bars"></div><div class="scheme-curve"></div></div></div>
+<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/wave-spectra.png" alt="Spectral wave activity trend decomposition"></figure></div>
 <div class="paper-box-text" markdown="1">
 
-### A Generalized Wave Power Spectral Framework for Diagnosing Mid-latitude Atmospheric Wave Variability
+### Mid-Latitude Wave Activity in Wavenumber-Frequency Space: Climatology, Trends, and CGT5-like Circulation Changes
 
-**Yuanrui Chen**, Wenjun Dong, and Jonathon S. Wright  
-Submitted to *Journal of the Atmospheric Sciences*, 2025.
+**Yuanrui Chen**, Wenhao Dong, and Jonathon S. Wright  
+In preparation, 2026.
 
-- Develops a generalized spectral diagnostic framework for comparing and interpreting mid-latitude atmospheric wave variability.
+- Defines a spectral wave-activity index for selected mid-latitude wave bands, separating eastward high-frequency, eastward low-frequency, and westward low-frequency components.
+- Uses wavenumber-frequency decomposition to show that recent circulation trends and CGT5-like summertime changes emerge from mixtures of spectral components rather than a single stationary wave pattern.
 </div>
 </div>
 
 ## Online
 
 <div class="paper-box paper-mhw" markdown="1">
-<div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">Marine Heatwave</div><div class="scheme-wave"></div><div class="scheme-warm-pool"></div></div></div>
+<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/mhw-rrwp.png" alt="Recurrent Rossby wave packets during the Southwest Pacific marine heatwave"></figure></div>
 <div class="paper-box-text" markdown="1">
 
 ### Recurrent Synoptic Waves Instigated Severe Marine Heatwave in the Southwest Pacific
@@ -51,12 +53,13 @@ Submitted to *Journal of the Atmospheric Sciences*, 2025.
 **Yuanrui Chen**, Fanghua Xu, and Jonathon S. Wright  
 *Journal of Geophysical Research: Atmospheres*, 130, e2024JD043232, 2025.
 
-- Shows how recurrent synoptic Rossby wave packets organized surface circulation and mixed-layer changes that triggered a severe Southwest Pacific marine heatwave.
+- Demonstrates that the 2019/2020 Southwest Pacific marine heatwave developed through two warming stages and an intermediate cooling phase dominated by recurrent synoptic Rossby wave packets.
+- Links wave-organized near-surface circulation to reduced wind-driven mixing, mixed-layer shoaling, enhanced solar warming, and eventual dissipation when the mixed layer returned toward climatology.
 </div>
 </div>
 
 <div class="paper-box paper-shmode" markdown="1">
-<div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">SH Wave Mode</div><div class="scheme-ring"></div><div class="scheme-wave small"></div></div></div>
+<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/zw5-mode.png" alt="Summertime Southern Hemisphere zonal wavenumber-5 mode"></figure></div>
 <div class="paper-box-text" markdown="1">
 
 ### On the Dynamics and Impacts of the Summertime Southern Hemisphere Dominant Wave Mode
@@ -64,12 +67,13 @@ Submitted to *Journal of the Atmospheric Sciences*, 2025.
 **Yuanrui Chen**, Yanluan Lin, and Jonathon S. Wright  
 *Quarterly Journal of the Royal Meteorological Society*, 151(773), e5069, 2025.
 
-- Identifies the dynamics and downstream impacts of a dominant summertime Southern Hemisphere wave mode.
+- Provides a comprehensive analysis of summertime Southern Hemisphere zonal wavenumber 5 using a two-dimensional index that tracks propagation and intensity.
+- Connects ZW5 life cycles to baroclinic generation, barotropic decay, surface weather impacts, and concurrent heat extremes across Southern Hemisphere mid-latitudes.
 </div>
 </div>
 
 <div class="paper-box paper-quadrupole" markdown="1">
-<div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">Quadrupole Mode</div><div class="scheme-quadrants"></div></div></div>
+<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/cqm-schematic.png" alt="Coupled Quadrupole Mode schematic in the South Pacific"></figure></div>
 <div class="paper-box-text" markdown="1">
 
 ### A Coupled Quadrupole Mode in the South Pacific
@@ -77,12 +81,13 @@ Submitted to *Journal of the Atmospheric Sciences*, 2025.
 **Yuanrui Chen** and Jonathon S. Wright  
 *Journal of Climate*, 37, 6109-6126, 2024.
 
-- Describes a coupled South Pacific quadrupole pattern linking regional circulation, convection, and tropical-extratropical variability.
+- Identifies a Coupled Quadrupole Mode linking the enhanced SPCZ atmospheric pattern and South Pacific Quadrupole sea surface temperature anomalies during austral summer.
+- Shows that the atmospheric component leads the oceanic response by about one month and is organized by a stationary Rossby wave train with coupled atmosphere-ocean feedbacks.
 </div>
 </div>
 
 <div class="paper-box paper-bias" markdown="1">
-<div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">Model Bias</div><div class="scheme-clouds"></div><div class="scheme-bars"></div></div></div>
+<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/james-spcz-bias.png" alt="Wave-convection interaction and SPCZ model bias preview"></figure></div>
 <div class="paper-box-text" markdown="1">
 
 ### Wave-convection interactions amplify convective parameterization biases in the South Pacific Convergence Zone
@@ -90,12 +95,13 @@ Submitted to *Journal of the Atmospheric Sciences*, 2025.
 **Yuanrui Chen**, Wenchao Chu, Jonathon S. Wright, and Yanluan Lin  
 *Journal of Advances in Modeling Earth Systems*, 16, e2024MS004334, 2024.
 
-- Demonstrates that wave-convection coupling can amplify convective parameterization biases in simulations of the SPCZ.
+- Shows that wave-convection interactions can amplify convective parameterization biases in SPCZ simulations.
+- Highlights how errors in convection-circulation coupling project onto regional rainfall, circulation, and model-performance biases.
 </div>
 </div>
 
 <div class="paper-box paper-airsea" markdown="1">
-<div class="paper-box-image"><div class="scheme-card"><div class="scheme-label">Air-Sea Flux</div><div class="scheme-interface"></div><div class="scheme-arrows"></div></div></div>
+<div class="paper-box-image"><figure class="paper-thumb paper-thumb--empty"><span>Air-Sea Flux</span></figure></div>
 <div class="paper-box-text" markdown="1">
 
 ### Estimation of gas exchange rate and carbon dioxide gas flux at the sea-air interface
