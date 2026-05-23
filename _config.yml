@@ -1,5 +1,6 @@
 title: "Yuanrui Chen"
-description: "Ph.D. candidate, convection-circulation coupling, Tsinghua University."
+description: "Yuanrui Chen is a Ph.D. candidate in Atmospheric Science at Tsinghua University studying SPCZ dynamics, wave-convection interaction, atmospheric waves, marine heatwaves, and AI-assisted atmospheric science workflows."
+url: "https://yuanruichen.github.io"
 repository: "yuanruichen/yuanruichen.github.io"
 timezone: Asia/Shanghai
 
@@ -24,5 +25,5 @@ author:
   researchgate: "https://www.researchgate.net/profile/Yuanrui-Chen-2"
   google_scholar: "https://scholar.google.com/citations?user=teLKOiQAAAAJ&hl=en"
   orcid: "https://orcid.org/0009-0008-7641-4767"
-  github: # TODO: add GitHub username
+  github: "https://github.com/yuanruichen"
   cv_pdf: # TODO: add CV PDF path or URL
