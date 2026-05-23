@@ -33,6 +33,7 @@ Submitted to *Journal of Climate*, 2026.
 </div>
 </div>
 
+<!-- Hidden for now: Wavenumber-Frequency Spectra work.
 <div class="paper-box paper-spectrum" markdown="1">
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/wave-spectra.png" alt="Spectral wave activity trend decomposition"></figure></div>
 <div class="paper-box-text" markdown="1">
@@ -46,6 +47,7 @@ In preparation, 2026.
 - Uses wavenumber-frequency decomposition to show that recent circulation trends and CGT5-like summertime changes emerge from mixtures of spectral components rather than a single stationary wave pattern.
 </div>
 </div>
+-->
 
 ## Online
 
@@ -105,6 +107,7 @@ In preparation, 2026.
 </div>
 </div>
 
+<!-- Hidden for now: sea-air interaction work.
 <div class="paper-box paper-airsea" markdown="1">
 <div class="paper-box-image"><figure class="paper-thumb paper-thumb--empty"><span>Air-Sea Flux</span></figure></div>
 <div class="paper-box-text" markdown="1">
@@ -117,6 +120,7 @@ In preparation, 2026.
 - Estimates gas exchange rates and carbon dioxide fluxes across the sea-air interface.
 </div>
 </div>
+-->
 
 <span class='anchor' id='education'></span>
 
