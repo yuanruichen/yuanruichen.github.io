@@ -6,7 +6,7 @@ permalink: /
 
 <span class='anchor' id='about'></span>
 
-I am a Ph.D. candidate in Atmospheric Science at the Department of Earth System Science, Tsinghua University, advised by Prof. Jonathon S. Wright. My research focuses on the South Pacific Convergence Zone, wave-convection interaction, atmospheric wave dynamics, and climate extremes, with particular emphasis on Southern Hemisphere wave variability and marine heatwaves. I am also interested in AI-assisted atmospheric science workflows and built [MetForge](https://github.com/yuanruichen/MetForge), a lightweight AI-agent workflow kit for atmospheric science that helps researchers spend less time on repetitive coding and more time on scientific thinking.
+I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Jonathon S. Wright](https://jonathonwright.github.io/). My research focuses on the South Pacific Convergence Zone, wave-convection interaction, atmospheric wave dynamics, and climate extremes, with particular emphasis on Southern Hemisphere wave variability and marine heatwaves. I am also interested in AI-assisted atmospheric science workflows and built [MetForge](https://github.com/yuanruichen/MetForge), a lightweight AI-agent workflow kit for atmospheric science that helps researchers spend less time on repetitive coding and more time on scientific thinking.
 
 <span class='anchor' id='publications'></span>
 
