@@ -23,7 +23,7 @@ I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/spcz-ccew.png" alt="Schematic of SPCZ and convectively coupled equatorial wave feedback"></figure></div>
 <div class="paper-box-text" markdown="1">
 
-### Interactions Between the SPCZ and Convectively Coupled Equatorial Waves
+### [Interactions Between the SPCZ and Convectively Coupled Equatorial Waves](https://scholar.google.com/scholar?q=%22Interactions+Between+the+SPCZ+and+Convectively+Coupled+Equatorial+Waves%22)
 
 **Yuanrui Chen**, Chang Xu, Steven Sherwood, and Jonathon S. Wright  
 Submitted to *Journal of Climate*, 2026.
@@ -37,7 +37,7 @@ Submitted to *Journal of Climate*, 2026.
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/wave-spectra.png" alt="Spectral wave activity trend decomposition"></figure></div>
 <div class="paper-box-text" markdown="1">
 
-### Mid-Latitude Wave Activity in Wavenumber-Frequency Space: Climatology, Trends, and CGT5-like Circulation Changes
+### [Mid-Latitude Wave Activity in Wavenumber-Frequency Space: Climatology, Trends, and CGT5-like Circulation Changes](https://scholar.google.com/scholar?q=%22Mid-Latitude+Wave+Activity+in+Wavenumber-Frequency+Space%22)
 
 **Yuanrui Chen**, Wenhao Dong, and Jonathon S. Wright  
 In preparation, 2026.
@@ -53,7 +53,7 @@ In preparation, 2026.
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/mhw-rrwp.png" alt="Recurrent Rossby wave packets during the Southwest Pacific marine heatwave"></figure></div>
 <div class="paper-box-text" markdown="1">
 
-### Recurrent Synoptic Waves Instigated Severe Marine Heatwave in the Southwest Pacific
+### [Recurrent Synoptic Waves Instigated Severe Marine Heatwave in the Southwest Pacific](https://doi.org/10.1029/2024JD043232)
 
 **Yuanrui Chen**, Fanghua Xu, and Jonathon S. Wright  
 *Journal of Geophysical Research: Atmospheres*, 130, e2024JD043232, 2025.
@@ -67,7 +67,7 @@ In preparation, 2026.
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/zw5-mode.png" alt="Summertime Southern Hemisphere zonal wavenumber-5 mode"></figure></div>
 <div class="paper-box-text" markdown="1">
 
-### On the Dynamics and Impacts of the Summertime Southern Hemisphere Dominant Wave Mode
+### [On the Dynamics and Impacts of the Summertime Southern Hemisphere Dominant Wave Mode](https://doi.org/10.1002/qj.5069)
 
 **Yuanrui Chen**, Yanluan Lin, and Jonathon S. Wright  
 *Quarterly Journal of the Royal Meteorological Society*, 151(773), e5069, 2025.
@@ -81,7 +81,7 @@ In preparation, 2026.
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/cqm-schematic.png" alt="Coupled Quadrupole Mode schematic in the South Pacific"></figure></div>
 <div class="paper-box-text" markdown="1">
 
-### A Coupled Quadrupole Mode in the South Pacific
+### [A Coupled Quadrupole Mode in the South Pacific](https://doi.org/10.1175/JCLI-D-23-0638.1)
 
 **Yuanrui Chen** and Jonathon S. Wright  
 *Journal of Climate*, 37, 6109-6126, 2024.
@@ -95,7 +95,7 @@ In preparation, 2026.
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/james-spcz-bias.png" alt="Wave-convection interaction and SPCZ model bias preview"></figure></div>
 <div class="paper-box-text" markdown="1">
 
-### Wave-convection interactions amplify convective parameterization biases in the South Pacific Convergence Zone
+### [Wave-convection interactions amplify convective parameterization biases in the South Pacific Convergence Zone](https://doi.org/10.1029/2024MS004334)
 
 **Yuanrui Chen**, Wenchao Chu, Jonathon S. Wright, and Yanluan Lin  
 *Journal of Advances in Modeling Earth Systems*, 16, e2024MS004334, 2024.
@@ -109,7 +109,7 @@ In preparation, 2026.
 <div class="paper-box-image"><figure class="paper-thumb paper-thumb--empty"><span>Air-Sea Flux</span></figure></div>
 <div class="paper-box-text" markdown="1">
 
-### Estimation of gas exchange rate and carbon dioxide gas flux at the sea-air interface
+### [Estimation of gas exchange rate and carbon dioxide gas flux at the sea-air interface](https://scholar.google.com/scholar?q=%22Estimation+of+gas+exchange+rate+and+carbon+dioxide+gas+flux+at+the+sea-air+interface%22)
 
 **Yuanrui Chen**, Dongliang Zhao, and Zhaohui Lin  
 *Haiyang Xuebao*, 43(9), 8-20, 2021.
