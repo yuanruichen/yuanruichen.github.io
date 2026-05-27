@@ -1,14 +1,16 @@
 ---
 layout: default
-title: ""
+title: "Yuanrui Chen | Atmospheric Science Ph.D. Candidate"
+description: "Yuanrui Chen, also known as Chen Yuanrui, is a Ph.D. candidate in Atmospheric Science at Tsinghua University studying the South Pacific Convergence Zone, wave-convection interaction, atmospheric waves, marine heatwaves, and AI-assisted atmospheric science workflows."
 permalink: /
+image: /assets/images/intro-portrait.jpg
 ---
 
 <span class='anchor' id='about'></span>
 
 <div class="intro-panel" markdown="1">
 <div class="intro-copy" markdown="1">
-I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Jonathon S. Wright](https://jonathonwright.github.io/). My research focuses on the South Pacific Convergence Zone, wave-convection interaction, and atmospheric wave dynamic. I am also interested in AI4science and built [**MetForge**](https://github.com/yuanruichen/MetForge), a lightweight AI-agent workflow kit for atmospheric science that helps researchers spend less time on repetitive coding and more time on scientific thinking.
+I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Jonathon S. Wright](https://jonathonwright.github.io/). My research focuses on the South Pacific Convergence Zone, wave-convection interaction, and atmospheric wave dynamics. I am also interested in AI4science and built [**MetForge**](https://github.com/yuanruichen/MetForge), a lightweight AI-agent workflow kit for atmospheric science that helps researchers spend less time on repetitive coding and more time on scientific thinking.
 </div>
 <figure class="intro-photo"><img src="/assets/images/intro-portrait.jpg" alt="Portrait of Yuanrui Chen"></figure>
 </div>
