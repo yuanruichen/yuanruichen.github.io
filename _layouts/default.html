@@ -1,9 +1,9 @@
 <!doctype html>
 <html lang="en">
   <head>
-    {% assign page_title = page.title | default: site.title %}
+    {% assign page_title = page.title | default: site.seo_title | default: site.title %}
     {% if page.title == "" %}
-      {% assign page_title = site.title %}
+      {% assign page_title = site.seo_title | default: site.title %}
     {% endif %}
     {% assign page_description = page.description | default: site.description %}
     {% assign canonical_url = page.url | absolute_url %}
@@ -30,6 +30,9 @@
         "@context": "https://schema.org",
         "@type": "Person",
         "name": {{ site.author.name | jsonify }},
+        "alternateName": {{ site.author.alternate_names | jsonify }},
+        "givenName": {{ site.author.given_name | jsonify }},
+        "familyName": {{ site.author.family_name | jsonify }},
         "url": {{ site.url | jsonify }},
         "image": {{ preview_image | jsonify }},
         "jobTitle": "Ph.D. Candidate in Atmospheric Science",
@@ -49,9 +52,12 @@
         "knowsAbout": [
           "Atmospheric science",
           "South Pacific Convergence Zone",
+          "SPCZ dynamics",
           "Wave-convection interaction",
-          "Atmospheric waves",
+          "Atmospheric wave dynamics",
+          "Rossby waves",
           "Marine heatwaves",
+          "Climate extremes",
           "AI-assisted atmospheric science workflows"
         ]
       }
