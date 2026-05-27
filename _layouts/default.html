@@ -80,7 +80,8 @@
     <main class="page-shell">
       <aside class="profile" aria-label="Profile">
         <img class="profile__photo" src="{{ '/assets/images/profile-talk.jpg' | relative_url }}" alt="Yuanrui Chen presenting at a workshop">
-        <div class="profile__name">{{ site.author.name }}</div>
+        <h1 class="profile__name">{{ site.author.display_name | default: site.author.name }}</h1>
+        <div class="profile__name-alt">Chen Yuanrui · Yuan Rui Chen</div>
         <div class="profile__bio">{{ site.author.bio }}</div>
         <div class="profile__affiliation">{{ site.author.affiliation }}</div>
         <div class="profile__location">{{ site.author.location }}</div>
