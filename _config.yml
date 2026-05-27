@@ -1,23 +1,20 @@
 title: "Yuanrui Chen"
-description: "Yuanrui Chen is a Ph.D. candidate in Atmospheric Science at Tsinghua University studying SPCZ dynamics, wave-convection interaction, atmospheric waves, marine heatwaves, and AI-assisted atmospheric science workflows."
+seo_title: "Yuanrui Chen | Atmospheric Science Ph.D. Candidate at Tsinghua University"
+description: "Yuanrui Chen, also known as Chen Yuanrui, is a Ph.D. candidate in Atmospheric Science at Tsinghua University studying SPCZ dynamics, wave-convection interaction, atmospheric waves, marine heatwaves, and AI-assisted atmospheric science workflows."
 url: "https://yuanruichen.github.io"
 repository: "yuanruichen/yuanruichen.github.io"
 timezone: Asia/Shanghai
 
-markdown: kramdown
-highlighter: rouge
-permalink: /:categories/:title/
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
-sass:
-  sass_dir: assets/css
-  style: compressed
-
 author:
-  name: "Yuanrui Chen 陈元瑞"
+  name: "Yuanrui Chen"
+  display_name: "Yuanrui Chen 陈元瑞"
+  given_name: "Yuanrui"
+  family_name: "Chen"
+  alternate_names:
+    - "Chen Yuanrui"
+    - "Yuan Rui Chen"
+    - "Yuan-Rui Chen"
+    - "陈元瑞"
   bio: "Ph.D. Candidate, convection-circulation coupling"
   affiliation: "Department of Earth System Science, Tsinghua University"
   location: "Beijing, China"
@@ -26,4 +23,4 @@ author:
   google_scholar: "https://scholar.google.com/citations?user=teLKOiQAAAAJ&hl=en"
   orcid: "https://orcid.org/0009-0008-7641-4767"
   github: "https://github.com/yuanruichen"
-  cv_pdf: # TODO: add CV PDF path or URL
+  cv_pdf:
