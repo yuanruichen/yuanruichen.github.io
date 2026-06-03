@@ -28,7 +28,7 @@ I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System
 ### [Interactions Between the SPCZ and Convectively Coupled Equatorial Waves](https://scholar.google.com/scholar?q=%22Interactions+Between+the+SPCZ+and+Convectively+Coupled+Equatorial+Waves%22)
 
 **Yuanrui Chen**, Chang Xu, Steven Sherwood, and Jonathon S. Wright  
-Submitted to *Journal of Climate*, 2026. 
+Submitted to *Journal of Climate* 
 
 - Quantifies how convectively coupled equatorial waves account for a substantial fraction of SPCZ outgoing longwave radiation variability, with equatorial Rossby and mixed Rossby-gravity waves providing leading westward-propagating contributions.
 - Shows that SPCZ background conditions sharpen wave structures and support a wave-evaporation-convection feedback that modulates coupled equatorial Rossby wave growth and propagation.
@@ -60,7 +60,7 @@ In preparation, 2026.
 ### [Recurrent Synoptic Waves Instigated Severe Marine Heatwave in the Southwest Pacific](https://doi.org/10.1029/2024JD043232)
 
 **Yuanrui Chen**, Fanghua Xu, and Jonathon S. Wright  
-*Journal of Geophysical Research: Atmospheres*, 130, e2024JD043232, 2025. [Best Oral Award, ICDM2024](https://jonathonwright.github.io/news/announcement_1/)
+*Journal of Geophysical Research: Atmospheres* [**Best Oral Award, ICDM2024**](https://jonathonwright.github.io/news/announcement_1/)
 
 - Demonstrates that the 2019/2020 Southwest Pacific marine heatwave developed through two warming stages and an intermediate cooling phase dominated by recurrent synoptic Rossby wave packets.
 - Links wave-organized near-surface circulation to reduced wind-driven mixing, mixed-layer shoaling, enhanced solar warming, and eventual dissipation when the mixed layer returned toward climatology.
@@ -74,7 +74,7 @@ In preparation, 2026.
 ### [On the Dynamics and Impacts of the Summertime Southern Hemisphere Dominant Wave Mode](https://doi.org/10.1002/qj.5069)
 
 **Yuanrui Chen**, Yanluan Lin, and Jonathon S. Wright  
-*Quarterly Journal of the Royal Meteorological Society*, 151(773), e5069, 2025.
+*Quarterly Journal of the Royal Meteorological Society*
 
 - Provides a comprehensive analysis of summertime Southern Hemisphere zonal wavenumber 5 using a two-dimensional index that tracks propagation and intensity.
 - Connects ZW5 life cycles to baroclinic generation, barotropic decay, surface weather impacts, and concurrent heat extremes across Southern Hemisphere mid-latitudes.
@@ -88,7 +88,7 @@ In preparation, 2026.
 ### [A Coupled Quadrupole Mode in the South Pacific](https://doi.org/10.1175/JCLI-D-23-0638.1)
 
 **Yuanrui Chen** and Jonathon S. Wright  
-*Journal of Climate*, 37, 6109-6126, 2024.
+*Journal of Climate*
 
 - Identifies a Coupled Quadrupole Mode linking the enhanced SPCZ atmospheric pattern and South Pacific Quadrupole sea surface temperature anomalies during austral summer.
 - Shows that the atmospheric component leads the oceanic response by about one month and is organized by a stationary Rossby wave train with coupled atmosphere-ocean feedbacks.
@@ -102,7 +102,7 @@ In preparation, 2026.
 ### [Wave-convection interactions amplify convective parameterization biases in the South Pacific Convergence Zone](https://doi.org/10.1029/2024MS004334)
 
 **Yuanrui Chen**, Wenchao Chu, Jonathon S. Wright, and Yanluan Lin  
-*Journal of Advances in Modeling Earth Systems*, 16, e2024MS004334, 2024.
+*Journal of Advances in Modeling Earth Systems*
 
 - Shows that wave-convection interactions can amplify convective parameterization biases in SPCZ simulations.
 - Highlights how errors in convection-circulation coupling project onto regional rainfall, circulation, and model-performance biases.
