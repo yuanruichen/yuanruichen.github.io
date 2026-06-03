@@ -28,7 +28,7 @@ I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System
 ### [Interactions Between the SPCZ and Convectively Coupled Equatorial Waves](https://scholar.google.com/scholar?q=%22Interactions+Between+the+SPCZ+and+Convectively+Coupled+Equatorial+Waves%22)
 
 **Yuanrui Chen**, Chang Xu, Steven Sherwood, and Jonathon S. Wright  
-Submitted to *Journal of Climate*, 2026.
+Submitted to *Journal of Climate*, 2026. 
 
 - Quantifies how convectively coupled equatorial waves account for a substantial fraction of SPCZ outgoing longwave radiation variability, with equatorial Rossby and mixed Rossby-gravity waves providing leading westward-propagating contributions.
 - Shows that SPCZ background conditions sharpen wave structures and support a wave-evaporation-convection feedback that modulates coupled equatorial Rossby wave growth and propagation.
@@ -60,7 +60,7 @@ In preparation, 2026.
 ### [Recurrent Synoptic Waves Instigated Severe Marine Heatwave in the Southwest Pacific](https://doi.org/10.1029/2024JD043232)
 
 **Yuanrui Chen**, Fanghua Xu, and Jonathon S. Wright  
-*Journal of Geophysical Research: Atmospheres*, 130, e2024JD043232, 2025.
+*Journal of Geophysical Research: Atmospheres*, 130, e2024JD043232, 2025. [Best Oral Award, ICDM2024](https://jonathonwright.github.io/news/announcement_1/)
 
 - Demonstrates that the 2019/2020 Southwest Pacific marine heatwave developed through two warming stages and an intermediate cooling phase dominated by recurrent synoptic Rossby wave packets.
 - Links wave-organized near-surface circulation to reduced wind-driven mixing, mixed-layer shoaling, enhanced solar warming, and eventual dissipation when the mixed layer returned toward climatology.
