@@ -60,7 +60,7 @@ In preparation, 2026.
 ### [Recurrent Synoptic Waves Instigated Severe Marine Heatwave in the Southwest Pacific](https://doi.org/10.1029/2024JD043232)
 
 **Yuanrui Chen**, Fanghua Xu, and Jonathon S. Wright  
-*Journal of Geophysical Research: Atmospheres* [**Best Oral Award, ICDM2024**](https://jonathonwright.github.io/news/announcement_1/)
+*Journal of Geophysical Research: Atmospheres* [**\textcolor{red}{(ICDM2024 Best Oral)}**](https://jonathonwright.github.io/news/announcement_1/)
 
 - Demonstrates that the 2019/2020 Southwest Pacific marine heatwave developed through two warming stages and an intermediate cooling phase dominated by recurrent synoptic Rossby wave packets.
 - Links wave-organized near-surface circulation to reduced wind-driven mixing, mixed-layer shoaling, enhanced solar warming, and eventual dissipation when the mixed layer returned toward climatology.
