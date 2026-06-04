@@ -10,7 +10,7 @@ image: /assets/images/intro-portrait.jpg
 
 <div class="intro-panel" markdown="1">
 <div class="intro-copy" markdown="1">
-I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Jonathon S. Wright](https://jonathonwright.github.io/). My research focuses on the South Pacific Convergence Zone, wave-convection interaction, and atmospheric wave dynamics. I am also interested in AI4science and built [**MetForge**](https://github.com/yuanruichen/MetForge), a lightweight AI-agent workflow kit for atmospheric science that helps researchers spend less time on repetitive coding and more time on scientific thinking.
+I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/), Tsinghua University, advised by [Jonathon S. Wright](https://jonathonwright.github.io/). My research focuses on the South Pacific Convergence Zone, wave-convection interaction, and atmospheric wave dynamics. I am also interested in AI4science and built [**MetForge**](https://github.com/yuanruichen/MetForge), a lightweight AI-agent workflow kit for atmospheric science that helps researchers spend less time on repetitive coding and more time on scientific thinking.
 </div>
 <figure class="intro-photo"><img src="/assets/images/intro-portrait.jpg" alt="Portrait of Yuanrui Chen"></figure>
 </div>
@@ -129,15 +129,15 @@ In preparation, 2026.
 # Education
 
 - **Ph.D. in Atmospheric Science**, Department of Earth System Science, Tsinghua University, Beijing, China, 2022-2027 expected  
-  Supervisor: Prof. Jonathon S. Wright  
+  Supervisor: Jonathon S. Wright  
   Research area: Atmospheric waves and monsoon
 
 - **Visiting Scholar**, Climate Change Research Centre, UNSW Sydney, Australia, 2025-2026  
-  Supervisor: Prof. Steven C. Sherwood  
+  Supervisor: Steven C. Sherwood  
   Research area: Wave-convection interaction
 
 - **B.E. in Physical Oceanography**, Ocean University of China, Qingdao, China, 2018-2022  
-  GPA: 3.74/4.00, Rank: 1/81
+  Bachelor’s Thesis: SPCZ–Ocean Dipole Interaction; Advisor: Lixiao Xu
 
 <span class='anchor' id='awards-and-honors'></span>
 
