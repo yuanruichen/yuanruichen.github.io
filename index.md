@@ -127,6 +127,8 @@ In preparation, 2026.
 <span class='anchor' id='education'></span>
 
 # Education
+- **B.E. in Physical Oceanography**, Ocean University of China, Qingdao, China, 2018-2022  
+  Bachelor’s Thesis: SPCZ–Ocean Dipole Interaction; Advisor: Lixiao Xu
 
 - **Ph.D. in Atmospheric Science**, Department of Earth System Science, Tsinghua University, Beijing, China, 2022-2027 expected  
   Supervisor: Jonathon S. Wright  
@@ -135,9 +137,6 @@ In preparation, 2026.
 - **Visiting Scholar**, Climate Change Research Centre, UNSW Sydney, Australia, 2025-2026  
   Supervisor: Steven C. Sherwood  
   Research area: Wave-convection interaction
-
-- **B.E. in Physical Oceanography**, Ocean University of China, Qingdao, China, 2018-2022  
-  Bachelor’s Thesis: SPCZ–Ocean Dipole Interaction; Advisor: Lixiao Xu
 
 <span class='anchor' id='awards-and-honors'></span>
 
