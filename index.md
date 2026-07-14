@@ -10,7 +10,11 @@ image: /assets/images/intro-portrait.jpg
 
 <div class="intro-panel" markdown="1">
 <div class="intro-copy" markdown="1">
-I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/), Tsinghua University, advised by [Jonathon S. Wright](https://jonathonwright.github.io/). My research centers on multiscale convection–circulation interactions: how atmospheric circulation organizes convection, how convection feeds back on circulation, and how this coupling shapes climate dynamics, model biases, extreme events, and predictability. I study these questions across scales—from tropical systems such as the South Pacific Convergence Zone and the Madden–Julian Oscillation to midlatitude waves and regional high-resolution simulations—using observations, theory-guided diagnostics, and numerical models.\n\nI am also interested in practical AI tools for science and develop [**MetForge**](https://github.com/yuanruichen/MetForge), an open-source collection of reusable AI-agent skills for atmospheric-science data workflows, scientific analysis, figure design, and model diagnosis.\n\nOutside research, I enjoy discovering good food and traveling, as well as quiet time spent reading or watching films.
+I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/), Tsinghua University, advised by [Jonathon S. Wright](https://jonathonwright.github.io/). My research centers on multiscale convection–circulation interactions: how atmospheric circulation organizes convection, how convection feeds back on circulation, and how this coupling shapes climate dynamics, model biases, extreme events, and predictability. I study these questions across scales—from tropical systems such as the South Pacific Convergence Zone and the Madden–Julian Oscillation to midlatitude waves and regional high-resolution simulations—using observations, theory-guided diagnostics, and numerical models.
+
+I am also interested in practical AI tools for science and develop [**MetForge**](https://github.com/yuanruichen/MetForge), an open-source collection of reusable AI-agent skills for atmospheric-science data workflows, scientific analysis, figure design, and model diagnosis.
+
+Outside research, I enjoy discovering good food and traveling, as well as quiet time spent reading or watching films.
 </div>
 <figure class="intro-photo"><img src="/assets/images/intro-portrait.jpg" alt="Portrait of Yuanrui Chen"></figure>
 </div>
