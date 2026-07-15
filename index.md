@@ -85,6 +85,18 @@ Submitted to *Climate Dynamics*
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/cqm-schematic.png" alt="Coupled Quadrupole Mode schematic in the South Pacific"></figure></div>
 <div class="paper-box-text" markdown="1">
 
+
+### [Wave-convection interactions amplify convective parameterization biases in the South Pacific Convergence Zone](https://doi.org/10.1029/2024MS004334)
+
+**Yuanrui Chen**, Wenchao Chu, Jonathon S. Wright, and Yanluan Lin  
+*Journal of Advances in Modeling Earth Systems*
+
+- Shows that wave-convection interactions can amplify convective parameterization biases in SPCZ simulations.
+- Highlights how errors in convection-circulation coupling project onto regional rainfall, circulation, and model-performance biases.
+</div>
+</div>
+
+
 ### [A Coupled Quadrupole Mode in the South Pacific](https://doi.org/10.1175/JCLI-D-23-0638.1)
 
 **Yuanrui Chen** and Jonathon S. Wright  
@@ -99,15 +111,6 @@ Submitted to *Climate Dynamics*
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/james-spcz-bias.png" alt="Wave-convection interaction and SPCZ model bias preview"></figure></div>
 <div class="paper-box-text" markdown="1">
 
-### [Wave-convection interactions amplify convective parameterization biases in the South Pacific Convergence Zone](https://doi.org/10.1029/2024MS004334)
-
-**Yuanrui Chen**, Wenchao Chu, Jonathon S. Wright, and Yanluan Lin  
-*Journal of Advances in Modeling Earth Systems*
-
-- Shows that wave-convection interactions can amplify convective parameterization biases in SPCZ simulations.
-- Highlights how errors in convection-circulation coupling project onto regional rainfall, circulation, and model-performance biases.
-</div>
-</div>
 
 <!-- Hidden for now: sea-air interaction work.
 <div class="paper-box paper-airsea" markdown="1">
