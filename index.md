@@ -10,9 +10,9 @@ image: /assets/images/intro-portrait.jpg
 
 <div class="intro-panel" markdown="1">
 <div class="intro-copy" markdown="1">
-I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/), Tsinghua University, advised by [Jonathon S. Wright](https://jonathonwright.github.io/). My research focuses on the interactions between atmospheric circulation and convection, and how these coupled processes influence climate variability, model performance, extreme events, and predictability. My work consists of two main components. First, I use observations and reanalysis data to gain new insights into convective–circulation coupling in active systems, such as the South Pacific Convergence Zone and Convectively Coupled Waves. Second, I apply this understanding to climate models to diagnose the sources of model biases and improve our understanding of their underlying mechanisms. I am also interested in practical AI tools for science and develop [**MetForge**](https://github.com/yuanruichen/MetForge), an open-source collection of reusable AI-agent skills for atmospheric-science data workflows, scientific analysis, figure design, and model diagnosis.
+I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/), Tsinghua University, advised by [Jonathon S. Wright](https://jonathonwright.github.io/). My research focuses on the interactions between atmospheric circulation and convection, and how these coupled processes influence climate variability, model performance, extreme events, and predictability. My work consists of two main components. First, I use observations and reanalysis data to develop a better physical understanding of systems in which convection–circulation coupling is particularly active, such as the South Pacific Convergence Zone and convectively coupled equatorial waves. Second, I apply this understanding to numerical models to diagnose the physical origins of model biases. I am also interested in midlatitude circulation, particularly the dynamics and impacts of Rossby waves and how they may change in a warming climate.
 
-Outside research, I enjoy discovering good food and traveling, as well as quiet time spent reading or watching films.
+Beyond my core research, I am interested in exploring how practical AI tools can support scientific work. I am developing [**MetForge**](https://github.com/yuanruichen/MetForge), an open-source project guided by a simple idea: helping atmospheric scientists think more and code less. Outside academia, I enjoy discovering good food, traveling, and spending quiet time reading or watching films.
 </div>
 <figure class="intro-photo"><img src="/assets/images/intro-portrait.jpg" alt="Portrait of Yuanrui Chen"></figure>
 </div>
@@ -37,7 +37,6 @@ Submitted to *Journal of Climate*
 </div>
 </div>
 
-<!-- Hidden for now: Wavenumber-Frequency Spectra work.
 <div class="paper-box paper-spectrum" markdown="1">
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/wave-spectra.png" alt="Spectral wave activity trend decomposition"></figure></div>
 <div class="paper-box-text" markdown="1">
@@ -45,13 +44,12 @@ Submitted to *Journal of Climate*
 ### [Mid-Latitude Wave Activity in Wavenumber-Frequency Space: Climatology, Trends, and CGT5-like Circulation Changes](https://scholar.google.com/scholar?q=%22Mid-Latitude+Wave+Activity+in+Wavenumber-Frequency+Space%22)
 
 **Yuanrui Chen**, Wenhao Dong, and Jonathon S. Wright  
-In preparation, 2026.
+Submitted to *Climate Dynamics* 
 
 - Defines a spectral wave-activity index for selected mid-latitude wave bands, separating eastward high-frequency, eastward low-frequency, and westward low-frequency components.
 - Uses wavenumber-frequency decomposition to show that recent circulation trends and CGT5-like summertime changes emerge from mixtures of spectral components rather than a single stationary wave pattern.
 </div>
 </div>
--->
 
 ## Online
 
