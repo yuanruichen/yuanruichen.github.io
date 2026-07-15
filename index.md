@@ -27,7 +27,7 @@ Beyond my core research, I am interested in exploring how practical AI tools can
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/spcz-ccew.png" alt="Schematic of SPCZ and convectively coupled equatorial wave feedback"></figure></div>
 <div class="paper-box-text" markdown="1">
 
-### [Interactions Between the SPCZ and Convectively Coupled Equatorial Waves](https://scholar.google.com/scholar?q=%22Interactions+Between+the+SPCZ+and+Convectively+Coupled+Equatorial+Waves%22)
+### Interactions Between the SPCZ and Convectively Coupled Equatorial Waves
 
 **Yuanrui Chen**, Chang Xu, Steven Sherwood, and Jonathon S. Wright  
 Submitted to *Journal of Climate* 
@@ -41,7 +41,7 @@ Submitted to *Journal of Climate*
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/wave-spectra.png" alt="Spectral wave activity trend decomposition"></figure></div>
 <div class="paper-box-text" markdown="1">
 
-### [Mid-Latitude Wave Activity in Wavenumber-Frequency Space: Climatology, Trends, and CGT5-like Circulation Changes](https://scholar.google.com/scholar?q=%22Mid-Latitude+Wave+Activity+in+Wavenumber-Frequency+Space%22)
+### Mid-Latitude Wave Activity in Wavenumber-Frequency Space: Climatology, Trends, and CGT5-like Circulation Changes
 
 **Yuanrui Chen**, Wenhao Dong, and Jonathon S. Wright  
 Submitted to *Climate Dynamics* 
