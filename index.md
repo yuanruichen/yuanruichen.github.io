@@ -132,7 +132,7 @@ Submitted to *Climate Dynamics*
 
 - **Ph.D. in Atmospheric Science**, Department of Earth System Science, Tsinghua University, Beijing, China, 2022-2027 expected  
   Supervisor: Jonathon S. Wright  
-  Research area: Atmospheric waves and monsoon
+  PhD Thesis (in progress): Interactions Between the South Pacific Convergence Zone and Atmospheric Waves
 
 - **Visiting Scholar**, Climate Change Research Centre, UNSW Sydney, Australia, 2025-2026  
   Supervisor: Steven C. Sherwood  
