@@ -81,11 +81,10 @@ Submitted to *Climate Dynamics*
 </div>
 </div>
 
-<div class="paper-box paper-quadrupole" markdown="1">
-<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/cqm-schematic.png" alt="Coupled Quadrupole Mode schematic in the South Pacific"></figure></div>
+<div class="paper-box paper-bias" markdown="1">
+<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/james-spcz-bias.png" alt="Wave-convection interaction and SPCZ model bias preview"></figure></div>
 <div class="paper-box-text" markdown="1">
-
-
+  
 ### [Wave-convection interactions amplify convective parameterization biases in the South Pacific Convergence Zone](https://doi.org/10.1029/2024MS004334)
 
 **Yuanrui Chen**, Wenchao Chu, Jonathon S. Wright, and Yanluan Lin  
@@ -96,7 +95,10 @@ Submitted to *Climate Dynamics*
 </div>
 </div>
 
-
+<div class="paper-box paper-quadrupole" markdown="1">
+<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/cqm-schematic.png" alt="Coupled Quadrupole Mode schematic in the South Pacific"></figure></div>
+<div class="paper-box-text" markdown="1">
+  
 ### [A Coupled Quadrupole Mode in the South Pacific](https://doi.org/10.1175/JCLI-D-23-0638.1)
 
 **Yuanrui Chen** and Jonathon S. Wright  
@@ -106,11 +108,6 @@ Submitted to *Climate Dynamics*
 - Shows that the atmospheric component leads the oceanic response by about one month and is organized by a stationary Rossby wave train with coupled atmosphere-ocean feedbacks.
 </div>
 </div>
-
-<div class="paper-box paper-bias" markdown="1">
-<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/james-spcz-bias.png" alt="Wave-convection interaction and SPCZ model bias preview"></figure></div>
-<div class="paper-box-text" markdown="1">
-
 
 <!-- Hidden for now: sea-air interaction work.
 <div class="paper-box paper-airsea" markdown="1">
