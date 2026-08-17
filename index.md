@@ -25,21 +25,6 @@ Looking ahead, I am particularly interested in a long-term question: **what sets
 
 # Publications
 
-## Accepted
-
-<div class="paper-box paper-spcz" markdown="1">
-<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/spcz-ccew.png" alt="Schematic of SPCZ and convectively coupled equatorial wave feedback"></figure></div>
-<div class="paper-box-text" markdown="1">
-
-### Interactions Between the SPCZ and Convectively Coupled Equatorial Waves
-
-**Yuanrui Chen**, Chang Xu, Steven Sherwood, and Jonathon S. Wright  
-Accepted for publication in *Journal of Climate*
-
-- **SPCZ–wave feedback.** Shows how equatorial waves shape SPCZ variability and how SPCZ background conditions, in turn, organize wave structure, growth, and propagation through a wave–evaporation–convection feedback.
-</div>
-</div>
-
 ## In Progress
 
 <div class="paper-box paper-spectrum" markdown="1">
@@ -52,6 +37,21 @@ Accepted for publication in *Journal of Climate*
 Submitted to *Climate Dynamics* 
 
 - **Spectral view of circulation change.** Separates distinct midlatitude wave components and shows that recent circulation trends and CGT5-like changes emerge from their combined contributions rather than a single stationary pattern.
+</div>
+</div>
+
+## Accepted
+
+<div class="paper-box paper-spcz" markdown="1">
+<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/spcz-ccew.png" alt="Schematic of SPCZ and convectively coupled equatorial wave feedback"></figure></div>
+<div class="paper-box-text" markdown="1">
+
+### Interactions Between the SPCZ and Convectively Coupled Equatorial Waves
+
+**Yuanrui Chen**, Chang Xu, Steven Sherwood, and Jonathon S. Wright  
+Accepted for publication in *Journal of Climate*
+
+- **SPCZ–wave feedback.** Shows how equatorial waves shape SPCZ variability and how SPCZ background conditions, in turn, organize wave structure, growth, and propagation through a wave–evaporation–convection feedback.
 </div>
 </div>
 
