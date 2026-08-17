@@ -10,13 +10,13 @@ image: /assets/images/intro-portrait.jpg
 
 <div class="intro-panel" markdown="1">
 <div class="intro-copy" markdown="1">
-I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/), Tsinghua University, advised by [Jonathon S. Wright](https://jonathonwright.github.io/). My research seeks to understand **multiscale interactions between atmospheric circulation and convection**, and how these coupled processes shape climate variability, model biases, extreme events, and predictability.
+I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/), Tsinghua University, advised by [Jonathon S. Wright](https://jonathonwright.github.io/). My research seeks to understand **multiscale interactions between atmospheric circulation and convection**, and how these coupled processes shape climate variability, model biases, extreme events, and predictability. I have also open-sourced [**MetForge**](https://github.com/yuanruichen/MetForge), which aims to help atmospheric scientists **think more and code less**. Outside academia, I enjoy discovering good food, traveling, and spending quiet time reading or watching films.
 
+<!--
 I combine **observations, reanalysis data, and numerical models** with theory-guided diagnostics to investigate circulation–convection coupling across tropical and extratropical systems, including the South Pacific Convergence Zone, convectively coupled equatorial waves, and Rossby waves. I also use this physical understanding to diagnose and improve the representation of key processes in weather and climate models.
 
 Looking ahead, I am particularly interested in a long-term question: **what sets the limits of predictability across weather and climate timescales, and how can we extend them?** I aim to connect physical mechanisms with high-resolution modeling, process-oriented model development, and physics-guided AI to improve the prediction of high-impact weather and climate.
-
-Beyond my core research, I am interested in exploring how practical AI tools can support scientific work. I am developing [**MetForge**](https://github.com/yuanruichen/MetForge), an open-source project guided by a simple idea: helping atmospheric scientists **think more and code less**. Outside academia, I enjoy discovering good food, traveling, and spending quiet time reading or watching films.
+-->
 </div>
 <figure class="intro-photo"><img src="/assets/images/intro-portrait.jpg" alt="Portrait of Yuanrui Chen"></figure>
 </div>
