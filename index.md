@@ -40,22 +40,20 @@ Submitted to *Climate Dynamics*
 </div>
 </div>
 
-## Accepted
+## Online
 
 <div class="paper-box paper-spcz" markdown="1">
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/spcz-ccew.png" alt="Schematic of SPCZ and convectively coupled equatorial wave feedback"></figure></div>
 <div class="paper-box-text" markdown="1">
 
-### Interactions Between the SPCZ and Convectively Coupled Equatorial Waves
+### [Interactions Between the SPCZ and Convectively Coupled Equatorial Waves](https://doi.org/10.1175/JCLI-D-26-0062.1)
 
 **Yuanrui Chen**, Chang Xu, Steven Sherwood, and Jonathon S. Wright  
-Accepted for publication in *Journal of Climate*
+*Journal of Climate*, 39(19), 5643–5655 (2026)
 
 - **SPCZ–wave feedback.** Shows how equatorial waves shape SPCZ variability and how SPCZ background conditions, in turn, organize wave structure, growth, and propagation through a wave–evaporation–convection feedback.
 </div>
 </div>
-
-## Online
 
 <div class="paper-box paper-mhw" markdown="1">
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/mhw-rrwp.png" alt="Recurrent Rossby wave packets during the Southwest Pacific marine heatwave"></figure></div>
