@@ -201,6 +201,17 @@ h3 {
   line-height: 1.35;
 }
 
+.publication-theme {
+  margin: 2rem 0 .2rem;
+  padding-bottom: .45rem;
+  border-bottom: 1px solid var(--line);
+  color: var(--accent);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
 .anchor {
   display: block;
   position: relative;
