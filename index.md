@@ -70,6 +70,19 @@ Submitted to *Climate Dynamics*
 </div>
 </div>
 
+<div class="paper-box paper-quadrupole" markdown="1">
+<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/cqm-schematic.png" alt="Coupled Quadrupole Mode schematic in the South Pacific"></figure></div>
+<div class="paper-box-text" markdown="1">
+  
+### [A Coupled Quadrupole Mode in the South Pacific](https://doi.org/10.1175/JCLI-D-23-0638.1)
+
+**Yuanrui Chen** and Jonathon S. Wright  
+*Journal of Climate*
+
+- **Coupled climate mode.** Identifies a stationary-wave-organized mode linking SPCZ variability to South Pacific sea-surface temperature anomalies through atmosphere–ocean feedbacks.
+</div>
+</div>
+
 <h3 class="publication-theme"><em>“The trouble with water is that it exists in multiple phases.”</em></h3>
 
 <div class="paper-box paper-spcz" markdown="1">
@@ -95,19 +108,6 @@ Submitted to *Climate Dynamics*
 *Journal of Advances in Modeling Earth Systems*
 
 - **Model-bias mechanism.** Shows that errors in convection–circulation coupling amplify convective-parameterization biases and project onto SPCZ rainfall and circulation.
-</div>
-</div>
-
-<div class="paper-box paper-quadrupole" markdown="1">
-<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/cqm-schematic.png" alt="Coupled Quadrupole Mode schematic in the South Pacific"></figure></div>
-<div class="paper-box-text" markdown="1">
-  
-### [A Coupled Quadrupole Mode in the South Pacific](https://doi.org/10.1175/JCLI-D-23-0638.1)
-
-**Yuanrui Chen** and Jonathon S. Wright  
-*Journal of Climate*
-
-- **Coupled climate mode.** Identifies a stationary-wave-organized mode linking SPCZ variability to South Pacific sea-surface temperature anomalies through atmosphere–ocean feedbacks.
 </div>
 </div>
 
