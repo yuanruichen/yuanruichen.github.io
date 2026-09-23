@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Yuanrui Chen | Atmospheric Science Ph.D. Candidate"
-description: "Yuanrui Chen, also known as Chen Yuanrui, is a Ph.D. candidate in Atmospheric Science at Tsinghua University studying multiscale convection-circulation interactions and their impacts on climate dynamics, model biases, extreme events, and predictability."
+description: "Yuanrui Chen, also known as Chen Yuanrui, is a Ph.D. candidate in Atmospheric Science at Tsinghua University studying large-scale atmospheric circulation and its interactions with moist processes, with applications to climate variability, extremes, model biases, and predictability."
 permalink: /
 image: /assets/images/intro-portrait.jpg
 ---
@@ -10,7 +10,7 @@ image: /assets/images/intro-portrait.jpg
 
 <div class="intro-panel" markdown="1">
 <div class="intro-copy" markdown="1">
-I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/), Tsinghua University, advised by [Jonathon S. Wright](https://jonathonwright.github.io/). My research seeks to understand **multiscale interactions between atmospheric circulation and convection**, and how these coupled processes shape climate variability, model biases, extreme events, and predictability. I have also open-sourced [**MetForge**](https://github.com/yuanruichen/MetForge), which aims to help atmospheric scientists **think more and code less**. Outside academia, I enjoy discovering good food, traveling, and spending quiet time reading or watching films.
+I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/), Tsinghua University, advised by [Jonathon S. Wright](https://jonathonwright.github.io/). My research focuses on **large-scale atmospheric circulation** and **its interactions with moist processes**, with applications to climate variability, extremes, model biases, and predictability. I have also open-sourced [**MetForge**](https://github.com/yuanruichen/MetForge), which aims to help atmospheric scientists **think more and code less**. Outside academia, I enjoy discovering good food, traveling, and spending quiet time reading or watching films.
 
 <!--
 I combine **observations, reanalysis data, and numerical models** with theory-guided diagnostics to investigate circulation–convection coupling across tropical and extratropical systems, including the South Pacific Convergence Zone, convectively coupled equatorial waves, and Rossby waves. I also use this physical understanding to diagnose and improve the representation of key processes in weather and climate models.
@@ -42,16 +42,18 @@ Submitted to *Climate Dynamics*
 
 ## Online
 
-<div class="paper-box paper-spcz" markdown="1">
-<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/spcz-ccew.png" alt="Schematic of SPCZ and convectively coupled equatorial wave feedback"></figure></div>
+<h3 class="publication-theme"><em>“Waves are everywhere.”</em></h3>
+
+<div class="paper-box paper-shmode" markdown="1">
+<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/zw5-mode.png" alt="Summertime Southern Hemisphere zonal wavenumber-5 mode"></figure></div>
 <div class="paper-box-text" markdown="1">
 
-### [Interactions Between the SPCZ and Convectively Coupled Equatorial Waves](https://doi.org/10.1175/JCLI-D-26-0062.1)
+### [On the Dynamics and Impacts of the Summertime Southern Hemisphere Dominant Wave Mode](https://doi.org/10.1002/qj.5069)
 
-**Yuanrui Chen**, Chang Xu, Steven Sherwood, and Jonathon S. Wright  
-*Journal of Climate*, 39(19), 5643–5655 (2026)
+**Yuanrui Chen**, Yanluan Lin, and Jonathon S. Wright  
+*Quarterly Journal of the Royal Meteorological Society*
 
-- **SPCZ–wave feedback.** Shows how equatorial waves shape SPCZ variability and how SPCZ background conditions, in turn, organize wave structure, growth, and propagation through a wave–evaporation–convection feedback.
+- **Wave life cycle and impacts.** Tracks the propagation and intensity of Southern Hemisphere zonal wavenumber 5, linking its growth and decay to surface weather and concurrent heat extremes.
 </div>
 </div>
 
@@ -68,16 +70,18 @@ Submitted to *Climate Dynamics*
 </div>
 </div>
 
-<div class="paper-box paper-shmode" markdown="1">
-<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/zw5-mode.png" alt="Summertime Southern Hemisphere zonal wavenumber-5 mode"></figure></div>
+<h3 class="publication-theme"><em>“The trouble with water is that it exists in multiple phases.”</em></h3>
+
+<div class="paper-box paper-spcz" markdown="1">
+<div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/spcz-ccew.png" alt="Schematic of SPCZ and convectively coupled equatorial wave feedback"></figure></div>
 <div class="paper-box-text" markdown="1">
 
-### [On the Dynamics and Impacts of the Summertime Southern Hemisphere Dominant Wave Mode](https://doi.org/10.1002/qj.5069)
+### [Interactions Between the SPCZ and Convectively Coupled Equatorial Waves](https://doi.org/10.1175/JCLI-D-26-0062.1)
 
-**Yuanrui Chen**, Yanluan Lin, and Jonathon S. Wright  
-*Quarterly Journal of the Royal Meteorological Society*
+**Yuanrui Chen**, Chang Xu, Steven Sherwood, and Jonathon S. Wright  
+*Journal of Climate*, 39(19), 5643–5655 (2026)
 
-- **Wave life cycle and impacts.** Tracks the propagation and intensity of Southern Hemisphere zonal wavenumber 5, linking its growth and decay to surface weather and concurrent heat extremes.
+- **SPCZ–wave feedback.** Shows how equatorial waves shape SPCZ variability and how SPCZ background conditions, in turn, organize wave structure, growth, and propagation through a wave–evaporation–convection feedback.
 </div>
 </div>
 
