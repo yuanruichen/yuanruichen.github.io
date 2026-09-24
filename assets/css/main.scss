@@ -202,14 +202,24 @@ h3 {
 }
 
 .publication-theme {
-  margin: 2rem 0 .2rem;
-  padding-bottom: .45rem;
-  border-bottom: 3px solid var(--accent);
+  margin: 2.2rem 0 .55rem;
   color: var(--accent);
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1.3rem;
   font-weight: 400;
   line-height: 1.4;
+}
+
+.publication-theme__motif {
+  display: block;
+  width: 190px;
+  height: 30px;
+  margin-top: .25rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  opacity: .75;
 }
 
 .anchor {
