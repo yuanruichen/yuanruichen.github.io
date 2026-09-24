@@ -42,7 +42,7 @@ Submitted to *Climate Dynamics*
 
 ## Online
 
-<h3 class="publication-theme"><em>“Waves are everywhere.”</em></h3>
+<h3 class="publication-theme"><em>“Waves are everywhere.”</em><svg class="publication-theme__motif" viewBox="0 0 190 30" aria-hidden="true" focusable="false"><path d="M2 15 Q17 5 32 15 T62 15 T92 15 T122 15 T152 15 T182 15"/></svg></h3>
 
 <div class="paper-box paper-shmode" markdown="1">
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/zw5-mode.png" alt="Summertime Southern Hemisphere zonal wavenumber-5 mode"></figure></div>
@@ -83,7 +83,7 @@ Submitted to *Climate Dynamics*
 </div>
 </div>
 
-<h3 class="publication-theme"><em>“The trouble with water is that it exists in multiple phases.”</em></h3>
+<h3 class="publication-theme"><em>“The trouble with water is that it exists in multiple phases.”</em><svg class="publication-theme__motif" viewBox="0 0 190 30" aria-hidden="true" focusable="false"><path d="M2 26 Q17 21 32 26 T62 26 T92 26 T122 26 T152 26 T182 26" opacity=".55"/><path d="M43 20 C31 15 52 12 43 7 C39 5 40 3 44 2 M93 20 C81 15 102 12 93 7 C89 5 90 3 94 2 M143 20 C131 15 152 12 143 7 C139 5 140 3 144 2"/></svg></h3>
 
 <div class="paper-box paper-spcz" markdown="1">
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/spcz-ccew.png" alt="Schematic of SPCZ and convectively coupled equatorial wave feedback"></figure></div>
