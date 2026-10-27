@@ -147,7 +147,7 @@ Submitted to *Climate Dynamics*
 <div class="award-list" markdown="1">
 
 - [Best Oral Award, ICDM Workshop, 2024](https://jonathonwright.github.io/news/announcement_1/)
-- Outstanding Student Presentation Award, Ninth Youth Geoscience Forum, 2024
+- Outstanding Student Presentation Award, 11th Youth Geoscience Forum, 2026
 - China National Scholarship, Undergraduate / Graduate, 2019 / 2024 / 2026
 - Young Elite Scientists Cultivation Program (PhD), China Association for Science and Technology, 2025
 
