@@ -92,7 +92,7 @@ Submitted to *Climate Dynamics*
 ### [Interactions Between the SPCZ and Convectively Coupled Equatorial Waves](https://doi.org/10.1175/JCLI-D-26-0062.1)
 
 **Yuanrui Chen**, Chang Xu, Steven Sherwood, and Jonathon S. Wright  
-*Journal of Climate*, 39(19), 5643–5655 (2026)
+*Journal of Climate*, 39(19), 5643–5655 (2026) [**(YGF2026 Outstanding Student Presentation)**](/news/youth-geoscience-forum-2026/)
 
 - **SPCZ–wave feedback.** Shows how equatorial waves shape SPCZ variability and how SPCZ background conditions, in turn, organize wave structure, growth, and propagation through a wave–evaporation–convection feedback.
 </div>
@@ -147,7 +147,7 @@ Submitted to *Climate Dynamics*
 <div class="award-list" markdown="1">
 
 - [Best Oral Award, ICDM Workshop, 2024](https://jonathonwright.github.io/news/announcement_1/)
-- Outstanding Student Presentation Award, 11th Youth Geoscience Forum, 2026
+- [Outstanding Student Presentation Award, 11th Youth Geoscience Forum, 2026](/news/youth-geoscience-forum-2026/)
 - China National Scholarship, Undergraduate / Graduate, 2019 / 2024 / 2026
 - Young Elite Scientists Cultivation Program (PhD), China Association for Science and Technology, 2025
 
