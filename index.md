@@ -25,7 +25,7 @@ Looking ahead, I am particularly interested in a long-term question: **what sets
 
 # Publications
 
-## In Progress
+## Accepted
 
 <div class="paper-box paper-spectrum" markdown="1">
 <div class="paper-box-image"><figure class="paper-thumb"><img src="/assets/images/publications/wave-spectra.png" alt="Spectral wave activity trend decomposition"></figure></div>
@@ -34,7 +34,7 @@ Looking ahead, I am particularly interested in a long-term question: **what sets
 ### Mid-Latitude Wave Activity in Wavenumber-Frequency Space: Climatology, Trends, and CGT5-like Circulation Changes
 
 **Yuanrui Chen**, Wenhao Dong, and Jonathon S. Wright  
-Submitted to *Climate Dynamics* 
+Accepted for publication in *Climate Dynamics* 
 
 - **Spectral view of circulation change.** Separates distinct midlatitude wave components and shows that recent circulation trends and CGT5-like changes emerge from their combined contributions rather than a single stationary pattern.
 </div>
@@ -126,6 +126,49 @@ Submitted to *Climate Dynamics*
 </div>
 -->
 
+<span class='anchor' id='projects-and-experience'></span>
+
+# Projects & Research Experience
+
+## Open-source Software
+
+<div class="experience-list">
+  <div class="experience-entry">
+    <h3><a href="https://github.com/yuanruichen/MetForge">MetForge — Atmospheric Science Skills</a></h3>
+    <p class="experience-entry__meta">Open-source software · Codex, Claude Code &amp; Hermes</p>
+    <p>A collection of reusable AI-agent skills for atmospheric science, covering research planning, data preparation, scientific analysis, figure design, research presentations, and atmospheric-model diagnostics.</p>
+  </div>
+</div>
+
+## Research Experience
+
+<div class="experience-list">
+  <div class="experience-entry">
+    <div class="experience-entry__header">
+      <h3>Shenzhen Meteorological Bureau</h3>
+      <span class="experience-entry__date">Jun 2026–Present</span>
+    </div>
+    <p class="experience-entry__meta">Research Intern</p>
+    <p>Evaluation of the CMA-GD dynamical core using idealized tests, with work on pressure-gradient-force discretization in a semi-implicit, semi-Lagrangian framework.</p>
+  </div>
+  <div class="experience-entry">
+    <div class="experience-entry__header">
+      <h3>UNSW Sydney, Australia</h3>
+      <span class="experience-entry__date">2025–2026</span>
+    </div>
+    <p class="experience-entry__meta">Visiting Scholar · Climate Change Research Centre · Supervisor: Steven C. Sherwood</p>
+    <p>Interactions between the South Pacific Convergence Zone and convectively coupled equatorial waves.</p>
+  </div>
+  <div class="experience-entry">
+    <div class="experience-entry__header">
+      <h3>Shanghai Meteorological Bureau</h3>
+      <span class="experience-entry__date">Jun–Sep 2024</span>
+    </div>
+    <p class="experience-entry__meta">Research Intern</p>
+    <p>Convolutional neural network approaches to subseasonal forecasting of the South China pre-summer rainy season.</p>
+  </div>
+</div>
+
 <span class='anchor' id='education'></span>
 
 # Education
@@ -135,10 +178,6 @@ Submitted to *Climate Dynamics*
 - **Ph.D. in Atmospheric Science**, Department of Earth System Science, Tsinghua University, Beijing, China, 2022-2027 expected  
   Supervisor: Jonathon S. Wright  
   PhD Thesis (in progress): Interactions Between the South Pacific Convergence Zone and Atmospheric Waves
-
-- **Visiting Scholar**, Climate Change Research Centre, UNSW Sydney, Australia, 2025-2026  
-  Supervisor: Steven C. Sherwood  
-  Research area: Wave-convection interaction
 
 <span class='anchor' id='awards-and-honors'></span>
 

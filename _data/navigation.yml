@@ -3,6 +3,8 @@ main:
     url: "/#about"
   - title: "Publications"
     url: "/#publications"
+  - title: "Projects & Experience"
+    url: "/#projects-and-experience"
   - title: "Education"
     url: "/#education"
   - title: "Awards"
