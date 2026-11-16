@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Yuanrui Chen | Atmospheric Science Ph.D. Candidate"
-description: "Yuanrui Chen, also known as Chen Yuanrui, is a Ph.D. candidate in Atmospheric Science at Tsinghua University studying large-scale atmospheric circulation and its interactions with moist processes, with applications to climate variability, extremes, model biases, and predictability."
+description: "Yuanrui Chen, also known as Chen Yuanrui, is a Ph.D. candidate in Atmospheric Science at Tsinghua University studying how atmospheric waves interact with convection and the surface to shape weather, climate variability, and predictability."
 permalink: /
 image: /assets/images/intro-portrait.jpg
 ---
@@ -10,13 +10,16 @@ image: /assets/images/intro-portrait.jpg
 
 <div class="intro-panel" markdown="1">
 <div class="intro-copy" markdown="1">
-I am a Ph.D. candidate in Atmospheric Science at the [Department of Earth System Science](https://www.dess.tsinghua.edu.cn/), Tsinghua University, advised by [Jonathon S. Wright](https://jonathonwright.github.io/). My research focuses on **large-scale atmospheric circulation** and **its interactions with moist processes**, with applications to climate variability, extremes, model biases, and predictability. I have also open-sourced [**MetForge**](https://github.com/yuanruichen/MetForge), which aims to help atmospheric scientists think more and code less. Outside academia, I enjoy discovering good food, traveling, and spending quiet time reading or watching films.
+I am a Ph.D. candidate in Atmospheric Science at Tsinghua University, working with [Prof. Jonathon S. Wright](https://jonathonwright.github.io/).
 
-<!--
-I combine **observations, reanalysis data, and numerical models** with theory-guided diagnostics to investigate circulation–convection coupling across tropical and extratropical systems, including the South Pacific Convergence Zone, convectively coupled equatorial waves, and Rossby waves. I also use this physical understanding to diagnose and improve the representation of key processes in weather and climate models.
+I study **how atmospheric waves organize weather and climate**. I am interested in how these waves grow and propagate, how they interact with convection and the surface, and how these interactions shape weather patterns and climate variability.
 
-Looking ahead, I am particularly interested in a long-term question: **what sets the limits of predictability across weather and climate timescales, and how can we extend them?** I aim to connect physical mechanisms with high-resolution modeling, process-oriented model development, and physics-guided AI to improve the prediction of high-impact weather and climate.
--->
+Despite their importance for extreme weather, global rainfall patterns, and future climate projections, many aspects of these interactions remain poorly understood. Their highly nonlinear nature makes them difficult to unravel, and limitations in their representation contribute to persistent biases in numerical models.
+
+I combine **observations, dynamical theory, numerical modeling, and AI-based approaches** to investigate the physical mechanisms behind these interactions and their implications for weather and climate predictability.
+
+Outside academia, I enjoy discovering good food, traveling, and spending quiet time reading or watching films.
+
 </div>
 <figure class="intro-photo"><img src="/assets/images/intro-portrait.jpg" alt="Portrait of Yuanrui Chen"></figure>
 </div>
