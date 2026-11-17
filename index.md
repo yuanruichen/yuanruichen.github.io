@@ -10,13 +10,7 @@ image: /assets/images/intro-portrait.jpg
 
 <div class="intro-panel" markdown="1">
 <div class="intro-copy" markdown="1">
-I am a Ph.D. candidate in Atmospheric Science at Tsinghua University, working with [Prof. Jonathon S. Wright](https://jonathonwright.github.io/).
-
-I study **how atmospheric waves organize weather and climate**. I am interested in how these waves grow and propagate, how they interact with convection and the surface, and how these interactions shape weather patterns and climate variability.
-
-Despite their importance for extreme weather, global rainfall patterns, and future climate projections, many aspects of these interactions remain poorly understood. Their highly nonlinear nature makes them difficult to unravel, and limitations in their representation contribute to persistent biases in numerical models.
-
-I combine **observations, dynamical theory, numerical modeling, and AI-based approaches** to investigate the physical mechanisms behind these interactions and their implications for weather and climate predictability.
+I am a Ph.D. candidate in Atmospheric Science at Tsinghua University, working with [Prof. Jonathon S. Wright](https://jonathonwright.github.io/). I study **how atmospheric waves organize weather and climate**. I am interested in how these waves grow and propagate, how they interact with convection and the surface, and how these interactions shape weather patterns and climate variability. Despite their importance for extreme weather, global rainfall patterns, and future climate projections, many aspects of these interactions remain poorly understood. Their highly nonlinear nature makes them difficult to unravel, and limitations in their representation contribute to persistent biases in numerical models. I combine **observations, dynamical theory, numerical modeling, and AI-based approaches** to investigate the physical mechanisms behind these interactions and their implications for weather and climate predictability.
 
 Outside academia, I enjoy discovering good food, traveling, and spending quiet time reading or watching films.
 
