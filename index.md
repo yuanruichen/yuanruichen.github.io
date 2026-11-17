@@ -123,49 +123,6 @@ Accepted for publication in *Climate Dynamics*
 </div>
 -->
 
-<span class='anchor' id='projects-and-experience'></span>
-
-# Projects & Research Experience
-
-## Open-source Software
-
-<div class="experience-list">
-  <div class="experience-entry">
-    <h3><a href="https://github.com/yuanruichen/MetForge">MetForge — Atmospheric Science Skills</a></h3>
-    <p class="experience-entry__meta">Open-source software · Codex, Claude Code &amp; Hermes</p>
-    <p>A collection of reusable AI-agent skills for atmospheric science, covering research planning, data preparation, scientific analysis, figure design, research presentations, and atmospheric-model diagnostics.</p>
-  </div>
-</div>
-
-## Research Experience
-
-<div class="experience-list">
-  <div class="experience-entry">
-    <div class="experience-entry__header">
-      <h3>Shenzhen Meteorological Bureau</h3>
-      <span class="experience-entry__date">Jun 2026–Present</span>
-    </div>
-    <p class="experience-entry__meta">Research Intern</p>
-    <p>Evaluation of the CMA-GD dynamical core using idealized tests, with work on pressure-gradient-force discretization in a semi-implicit, semi-Lagrangian framework.</p>
-  </div>
-  <div class="experience-entry">
-    <div class="experience-entry__header">
-      <h3>UNSW Sydney, Australia</h3>
-      <span class="experience-entry__date">2025–2026</span>
-    </div>
-    <p class="experience-entry__meta">Visiting Scholar · Climate Change Research Centre · Supervisor: Steven C. Sherwood</p>
-    <p>Interactions between the South Pacific Convergence Zone and convectively coupled equatorial waves.</p>
-  </div>
-  <div class="experience-entry">
-    <div class="experience-entry__header">
-      <h3>Shanghai Meteorological Bureau</h3>
-      <span class="experience-entry__date">Jun–Sep 2024</span>
-    </div>
-    <p class="experience-entry__meta">Research Intern</p>
-    <p>Convolutional neural network approaches to subseasonal forecasting of the South China pre-summer rainy season.</p>
-  </div>
-</div>
-
 <span class='anchor' id='education'></span>
 
 # Education
@@ -175,6 +132,10 @@ Accepted for publication in *Climate Dynamics*
 - **Ph.D. in Atmospheric Science**, Department of Earth System Science, Tsinghua University, Beijing, China, 2022-2027 expected  
   Supervisor: Jonathon S. Wright  
   PhD Thesis (in progress): Interactions Between the South Pacific Convergence Zone and Atmospheric Waves
+
+- **Visiting Scholar**, Climate Change Research Centre, UNSW Sydney, Australia, 2025-2026  
+  Supervisor: Steven C. Sherwood  
+  Research area: Wave-convection interaction
 
 <span class='anchor' id='awards-and-honors'></span>
 
@@ -187,4 +148,16 @@ Accepted for publication in *Climate Dynamics*
 - China National Scholarship, Undergraduate / Graduate, 2019 / 2024 / 2026
 - Young Elite Scientists Cultivation Program (PhD), China Association for Science and Technology, 2025
 
+</div>
+
+<span class='anchor' id='metforge'></span>
+
+# Open-source Software
+
+<div class="experience-list">
+  <div class="experience-entry">
+    <h3><a href="https://github.com/yuanruichen/MetForge">MetForge — Atmospheric Science Skills</a></h3>
+    <p class="experience-entry__meta">Open-source software · Codex, Claude Code &amp; Hermes</p>
+    <p>A collection of reusable AI-agent skills for atmospheric science, covering research planning, data preparation, scientific analysis, figure design, research presentations, and atmospheric-model diagnostics.</p>
+  </div>
 </div>
